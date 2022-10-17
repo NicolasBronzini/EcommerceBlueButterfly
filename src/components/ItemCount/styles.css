@@ -1,0 +1,45 @@
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.counter {
+    display: flex;
+    border: 1px solid gainsboro;
+    border-radius: 12%;
+    width: 4rem;
+    justify-content: center;
+}
+
+.button-container {
+    display: flex;    
+    width: 100%;
+}
+
+.button {
+    background-color:#198754;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 10%;
+    border: 2px solid gainsboro;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #395B64   ;
+    color: white;
+}
+
+.button-buy {
+    background-color: #198754;
+    width: 30%;
+    margin-top: 1rem;
+    color: white;
+}
+
+.button-buy:hover {
+    background-color: #198754;
+}

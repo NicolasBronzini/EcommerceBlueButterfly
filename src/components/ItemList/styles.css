@@ -1,0 +1,11 @@
+.ItemCard{
+    background-color: rgb(250, 243, 237);
+    flex-wrap: wrap;
+    display: flex;
+    margin: 50px;
+    height:auto;
+    margin: auto; 
+    justify-content: center;
+    margin-top: -10px;
+    
+ }

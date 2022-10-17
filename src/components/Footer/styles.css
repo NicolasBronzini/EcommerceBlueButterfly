@@ -1,0 +1,16 @@
+.footerContainer{
+    background-color: #1C3879;
+    text-align: center;
+    color: white;
+    overflow-y: hidden;
+    
+  
+}
+.footerContainer h3 {
+    margin-top: 50px;
+}
+
+.footerContainer p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
